@@ -4464,7 +4464,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (59)
+### 📊 Menubar (60)
 - [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
@@ -4617,6 +4617,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [CodexReserve](https://github.com/yourarnav/CodexReserve) - Two rings in your menu bar. Codex 5-hour and weekly limits, nothing else.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://codex-reserve.vercel.app](https://codex-reserve.vercel.app)
 
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List. 
 
